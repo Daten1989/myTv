@@ -20,19 +20,6 @@ CCTV15移动,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/322122664
 CCTV16移动,http://120.196.232.16:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 CCTV17移动,http://120.196.232.44:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
 
-CCTV1,http://cfss.cc/api/ysp/cctv1.m3u8
-CCTV2,http://cfss.cc/api/ysp/cctv2.m3u8
-CCTV3,http://cfss.cc/api/ysp/cctv3.m3u8
-CCTV4,http://cfss.cc/api/ysp/cctv4.m3u8
-CCTV5,http://cfss.cc/api/ysp/cctv5.m3u8
-CCTV6,http://cfss.cc/api/ysp/cctv6.m3u8
-CCTV7,http://cfss.cc/api/ysp/cctv7.m3u8
-CCTV8,http://cfss.cc/api/ysp/cctv8.m3u8
-CCTV9,http://cfss.cc/api/ysp/cctv9.m3u8
-CCTV10,http://cfss.cc/api/ysp/cctv10.m3u8
-CCTV11,http://cfss.cc/api/ysp/cctv11.m3u8
-CCTV12,http://cfss.cc/api/ysp/cctv12.m3u8
-CCTV13,http://cfss.cc/api/ysp/cctv13.m3u8
 
 
 CCTV1*超清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel1/index.m3u8
@@ -242,24 +229,6 @@ CHC动作㊣版,https://epg.pw/stream/0d70b4ab6d8810e6cc621382b2970d1312b24247b1
 译制国语✔原,http://maomao.kandiantv.cn/douyu1.php?id=2436390
 绍兴影院✪另,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 南宁影院娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-
-
-🎬影院,#genre#
-余杭影院频道,http://hzdx.chiang.fun:3333/tsfile/live/1018_1.m3u8
-余杭影院频道,http://183.129.242.178:3333/tsfile/live/1018_1.m3u8
-南京影院频道,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-平泉影院频道,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-南宁影院频道,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-绍兴影院频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-浙江影院频道,https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-万州影院文艺,http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
-万州影院文艺,http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
-新泰影院频道,http://111.17.214.4:1935/live/xtys/playlist.m3u8
-新泰影院频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
-新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-浙江影院频道,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
-浙江教科影院,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-河北影院剧台,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
 
 
 💞少儿,#genre#
