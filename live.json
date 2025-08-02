@@ -4,7 +4,7 @@
       "key": "点播源",
       "name": "点播源",
       "type": 0,
-      "api": "http://www.kkkkkbbbbb.com/api.php/provide/vod/at/xml/",
+      "api": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -20,7 +20,7 @@
   ],
   "lives": [
     {
-      "group": "直播",
+      "group": "CCTV",
       "channels": [
         {
           "name": "CCTV1",
@@ -128,6 +128,41 @@
           "name": "CCTV17",
           "urls": [
             "http://110.178.210.11:9003/hls/18/index.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "卫视",
+      "channels": [
+        {
+          "name": "江苏卫视",
+          "urls": [
+            "http://110.178.210.11:9003/hls/35/index.m3u8"
+          ]
+        },
+        {
+          "name": "浙江卫视",
+          "urls": [
+            "http://110.178.210.11:9003/hls/49/index.m3u8"
+          ]
+        },
+        {
+          "name": "东方卫视",
+          "urls": [
+            "http://110.178.210.11:9003/hls/23/index.m3u8"
+          ]
+        },
+        {
+          "name": "广东卫视",
+          "urls": [
+            "http://110.178.210.11:9003/hls/26/index.m3u8"
+          ]
+        },
+        {
+          "name": "上东卫视",
+          "urls": [
+            "http://110.178.210.11:9003/hls/41/index.m3u8"
           ]
         }
       ]
