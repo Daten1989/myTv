@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "key": "点播源",
-      "name": "Daten's",
-      "type": 0,
-      "api": "http://www.kkkkkbbbbb.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
             "key": "lz豆瓣",
             "name": "⚡免费接口⚡搭配OK影视使用效果最佳",
             "type": 3,
@@ -1524,6 +1515,7 @@
   ]
 
 }
+
 
 
 
