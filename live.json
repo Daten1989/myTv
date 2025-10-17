@@ -1270,7 +1270,7 @@
     {
       "name": "Daten",
       "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/qinvision/hpydy/refs/heads/main/hpydy.txt"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/qinvision/hpydy/refs/heads/main/hpydy.txt"
     }
   ],
   "parses": [
@@ -1515,6 +1515,7 @@
   ]
 
 }
+
 
 
 
